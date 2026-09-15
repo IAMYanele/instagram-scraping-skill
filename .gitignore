@@ -1,0 +1,14 @@
+# Secrets — never commit
+config.json
+.env
+*.env
+# Runtime state / logs / output
+state.json
+*.log
+*.out
+*.err
+Video ideas/
+scripts_*.txt
+__pycache__/
+*.pyc
+.claude/

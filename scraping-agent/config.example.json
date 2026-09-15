@@ -1,0 +1,12 @@
+{
+    "rapidapi_key": "YOUR_RAPIDAPI_KEY_HERE",
+    "rapidapi_key_fallback": "",
+    "rapidapi_host": "instagram-scraper-20251.p.rapidapi.com",
+    "anthropic_api_key_env": "ANTHROPIC_API_KEY",
+    "whisper_model": "small",
+    "initial_lookback_days": 30,
+    "slack_channel_name": "your-ideas-channel",
+    "rate_limit_delay": 0.5,
+    "max_retries": 4,
+    "pages_dir": "Pages to scrape"
+}
